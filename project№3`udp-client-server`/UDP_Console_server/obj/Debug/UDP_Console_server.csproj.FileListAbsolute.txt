@@ -1,0 +1,12 @@
+C:\trash\yandexPractice\UDP\UDP_Console_server\bin\Debug\UDP_Console_server.exe
+C:\trash\yandexPractice\UDP\UDP_Console_server\bin\Debug\UDP_Console_server.pdb
+C:\trash\yandexPractice\UDP\UDP_Console_server\obj\Debug\UDP_Console_server.csproj.AssemblyReference.cache
+C:\trash\yandexPractice\UDP\UDP_Console_server\obj\Debug\UDP_Console_server.csproj.CoreCompileInputs.cache
+C:\trash\yandexPractice\UDP\UDP_Console_server\obj\Debug\UDP_Console_server.exe
+C:\trash\yandexPractice\UDP\UDP_Console_server\obj\Debug\UDP_Console_server.pdb
+C:\trash\yandexPractice\UDP_task\UDP_Console_server\bin\Debug\UDP_Console_server.exe
+C:\trash\yandexPractice\UDP_task\UDP_Console_server\bin\Debug\UDP_Console_server.pdb
+C:\trash\yandexPractice\UDP_task\UDP_Console_server\obj\Debug\UDP_Console_server.csproj.AssemblyReference.cache
+C:\trash\yandexPractice\UDP_task\UDP_Console_server\obj\Debug\UDP_Console_server.csproj.CoreCompileInputs.cache
+C:\trash\yandexPractice\UDP_task\UDP_Console_server\obj\Debug\UDP_Console_server.exe
+C:\trash\yandexPractice\UDP_task\UDP_Console_server\obj\Debug\UDP_Console_server.pdb

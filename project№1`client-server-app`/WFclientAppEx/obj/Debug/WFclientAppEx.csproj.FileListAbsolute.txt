@@ -1,0 +1,10 @@
+C:\trash\c# rider\clientApp\WFclientAppEx\bin\Debug\WFclientAppEx.exe.config
+C:\trash\c# rider\clientApp\WFclientAppEx\bin\Debug\WFclientAppEx.exe
+C:\trash\c# rider\clientApp\WFclientAppEx\bin\Debug\WFclientAppEx.pdb
+C:\trash\c# rider\clientApp\WFclientAppEx\obj\Debug\WFclientAppEx.csproj.AssemblyReference.cache
+C:\trash\c# rider\clientApp\WFclientAppEx\obj\Debug\WFclientAppEx.Properties.Resources.resources
+C:\trash\c# rider\clientApp\WFclientAppEx\obj\Debug\WFclientAppEx.csproj.GenerateResource.cache
+C:\trash\c# rider\clientApp\WFclientAppEx\obj\Debug\WFclientAppEx.csproj.CoreCompileInputs.cache
+C:\trash\c# rider\clientApp\WFclientAppEx\obj\Debug\WFclientAppEx.exe
+C:\trash\c# rider\clientApp\WFclientAppEx\obj\Debug\WFclientAppEx.pdb
+C:\trash\c# rider\clientApp\WFclientAppEx\obj\Debug\WFclientAppEx.Form1.resources

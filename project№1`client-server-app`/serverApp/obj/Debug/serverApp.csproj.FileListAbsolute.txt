@@ -1,0 +1,6 @@
+C:\trash\c# rider\clientApp\serverApp\bin\Debug\serverApp.exe
+C:\trash\c# rider\clientApp\serverApp\bin\Debug\serverApp.pdb
+C:\trash\c# rider\clientApp\serverApp\obj\Debug\serverApp.csproj.AssemblyReference.cache
+C:\trash\c# rider\clientApp\serverApp\obj\Debug\serverApp.csproj.CoreCompileInputs.cache
+C:\trash\c# rider\clientApp\serverApp\obj\Debug\serverApp.exe
+C:\trash\c# rider\clientApp\serverApp\obj\Debug\serverApp.pdb
